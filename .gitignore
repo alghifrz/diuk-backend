@@ -1,0 +1,19 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Build output
+/bin/
+/tmp/
+diuk-backend
+diuk-backend.exe
+
+# Test and coverage output
+*.test
+*.out
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/

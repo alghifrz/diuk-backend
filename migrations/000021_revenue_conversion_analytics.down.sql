@@ -1,0 +1,2 @@
+DROP INDEX IF EXISTS idx_reservation_payments_business_id_created_at_status;
+DROP INDEX IF EXISTS idx_reservations_business_id_created_at_status;

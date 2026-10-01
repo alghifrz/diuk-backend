@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS ai_prompts;
+DROP TABLE IF EXISTS ai_settings;
